@@ -1,0 +1,9 @@
+Chunk 1
+Size: 75 characters
+Source: 0
+Method: Pure Semantic Chunking
+------------------------------
+
+company info:
+- website: www.global.mohabujayyab.com
+- address:  Berlin-MM2

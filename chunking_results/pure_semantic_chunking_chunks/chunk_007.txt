@@ -1,0 +1,13 @@
+Chunk 7
+Size: 744 characters
+Source: 3
+Method: Pure Semantic Chunking
+------------------------------
+
+2. Design & Development: Crafting tailored solutions with scalability in mind. 3. Deployment & Testing: Ensuring seamless integration and flawless performance. 4. Maintenance & Optimization: Supporting your operations post-launch. FAQ
+General Questions
+Can you scale solutions for a growing business? Yes, our solutions are designed to scale as your
+business grows, ensuring performance and reliability. What industries do you specialize in? We cater to retail, healthcare, education, logistics, finance, and
+many more. What are your timelines for projects? Timelines depend on the complexity of the project. Small
+projects may take weeks, while enterprise solutions may require several months. Technical Questions
+What technologies do you use?

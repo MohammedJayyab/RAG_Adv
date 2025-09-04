@@ -1,0 +1,18 @@
+Chunk 8
+Size: 1002 characters
+Source: 4
+Method: Pure Semantic Chunking
+------------------------------
+
+Languages: Python, JavaScript, Java, c#
+Frameworks: React, Angular, Django, Node.js, Flutter
+Databases: PostgreSQL, MongoDB, MySQL
+DevOps: Docker, Kubernetes, Terraform
+Cloud Platforms: AWS, Azure, Google Cloud
+Do you provide post-launch support? Yes, we provide full maintenance, including updates, security
+patches, and performance monitoring. How do I integrate your solutions with my current systems? We offer full integration services,
+ensuring compatibility with your existing tools. Onboarding Questions
+How can I request a consultation? Fill out our online form or email us at info@mohabujayyab.com. A team member will reach out to discuss your needs. What happens after the initial consultation? We provide a detailed proposal, including timelines,
+costs, and implementation strategies. Glossary of Terms
+CI/CD: Continuous Integration and Continuous Deployment, a method for automating the software
+lifecycle. NLP: Natural Language Processing, enabling AI systems to understand human language.
